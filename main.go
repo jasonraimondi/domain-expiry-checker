@@ -4,7 +4,7 @@ import (
     "fmt"
     "time"
 
-    "github.com/jasonraimondi/domain-expiry-check/whois"
+    "github.com/jasonraimondi/domain-expiry-checker/whois"
 )
 
 func main() {
